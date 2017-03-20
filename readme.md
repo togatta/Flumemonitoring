@@ -11,7 +11,7 @@ di line 24 recipients = ['isi alamat si penerimanya'] menjadi misal recipients =
 Jika linenya udah diubah, cara pemakaiannya adalah sebagai berikut :
 
 
-flumemonitoring.py<spasi>[lokasi path log]<spasi>[nama agent]
+flumemonitoring.py <spasi> [lokasi path log] <spasi> [nama agent]
 
 
 contoh :
