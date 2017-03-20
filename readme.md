@@ -19,5 +19,8 @@ contoh :
 flumemonitoring.py /var/log/flume/flume.log test
 
 
+sehabis itu pasang deh di crontabnya per 15 menit atau per 30 menit
+
+
 
 
