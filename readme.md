@@ -17,3 +17,7 @@ flumemonitoring.py [spasi] [lokasi path log] [spasi]  [nama agent]
 contoh :
 
 flumemonitoring.py /var/log/flume/flume.log test
+
+
+
+
